@@ -1,0 +1,15 @@
+# Ignore system files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore API keys or sensitive data (Use a .env file instead)
+config.json
+secrets.json
