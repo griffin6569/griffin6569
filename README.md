@@ -1,98 +1,301 @@
-```markdown
-# 💫 About Me
+# Hi, I'm Griffin Wekesa 👋
 
-## 👨‍💻 About Me
+### Full-Stack Developer | AI Product Builder | Civic-Tech, Agritech, Health-Tech & Public Safety Systems
 
-Hi, I'm **GRIFFIN** 👋
+I'm a full-stack developer focused on building practical, AI-powered platforms that solve real-world problems across Africa. My work combines modern web development, Supabase-backed systems, mapping, offline-first design, AI assistants, and role-based platforms for civic reporting, housing, veterinary support, public safety, and digital services.
 
-- 🎓 Pursuing a **BSc in Information Technology** at **Dedan Kimathi University of Technology (DeKUT)**
-- 🧠 Expanding my knowledge in **Computer Science, Mechatronics, and Telecommunication Engineering**
-- 🤖 Passionate about **AI Engineering**, **Agentic AI**, and **Intelligent Systems**
-- 🛠️ Building innovative solutions with **Arduino, ESP8266, NodeMCU, sensors, and IoT dashboards**
-- 📡 Exploring **Machine Learning** with **TensorFlow** and **Keras**, while fine-tuning **open-source LLMs**
-- 📱 Developing **AI-powered platforms**, including customer care agents, smart assistants, and pricing systems
-- 🌍 Committed to advancing **African AI innovation** through local datasets and impactful technology
-- ⚡ Driven by projects that blend **logic, automation, problem-solving, and precision engineering**
+I enjoy turning ideas into complete products: from UI and authentication to databases, serverless functions, dashboards, maps, admin workflows, and production deployment.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 What I Build
 
-### 👨‍💻 Languages
+* AI-powered civic-tech and public infrastructure platforms
+* Agritech and veterinary decision-support systems
+* Health-tech and digital assistant applications
+* Offline-first public safety and incident reporting tools
+* Housing and rental discovery platforms
+* Supabase-powered full-stack web applications
+* Map-based dashboards and geolocation systems
+* Progressive Web Apps and mobile-ready products
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
+## 🛠️ Tech Stack
 
-### 🤖 AI & Machine Learning
+### Frontend Development
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 🔌 IoT & Embedded Systems
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![NodeMCU](https://img.shields.io/badge/NodeMCU-0A3D62?style=for-the-badge&logo=espressif&logoColor=white)
-
-### ☁️ Cloud & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+| Technology           | How I Use It                                          |
+| -------------------- | ----------------------------------------------------- |
+| React                | Building interactive web applications and dashboards  |
+| TypeScript           | Writing safer, scalable frontend code                 |
+| JavaScript           | Core web application logic                            |
+| Vite                 | Fast development and production builds                |
+| TanStack Start       | Full-stack React app structure and routing            |
+| TanStack Router      | File-based routing and application navigation         |
+| TanStack React Query | API data fetching, caching, and state synchronization |
+| Tailwind CSS         | Responsive and modern UI styling                      |
+| Shadcn UI            | Clean reusable interface components                   |
+| Radix UI             | Accessible UI primitives                              |
+| Framer Motion        | Smooth animations and transitions                     |
 
 ---
 
-## 📊 GitHub Stats
+### Backend, Database & Authentication
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=griffinmax9801&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=griffinmax9801&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=griffinmax9801&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=griffinmax9801&theme=radical&no-frame=true&margin-w=8" alt="GitHub Trophies" />
-</p>
+| Technology              | How I Use It                                       |
+| ----------------------- | -------------------------------------------------- |
+| Supabase                | Backend services for full-stack applications       |
+| Supabase Auth           | User authentication and role-based access          |
+| Supabase Postgres       | Relational database design and data storage        |
+| Supabase Storage        | File, image, and evidence upload storage           |
+| Supabase Edge Functions | Serverless backend logic and AI workflows          |
+| Row Level Security      | Securing user-owned and admin-only data            |
+| PostgreSQL              | Database schema, queries, migrations, and policies |
+| Deno                    | Running Supabase Edge Functions                    |
 
 ---
 
-## 🌐 Connect With Me
+### AI, Maps & Product Features
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://agrointelix.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/griffin-wekesa-1a7258377)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/griffinmax9801)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/griffinmaximus)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Griffin%20maximus)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:griffinwekesa65@gmail.com)
-
----
-
-## 🏆 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=griffinmax9801&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+| Technology / Feature | How I Use It                                                          |
+| -------------------- | --------------------------------------------------------------------- |
+| Google Gemini        | AI assistants, triage reports, image analysis, and structured outputs |
+| AI Chatbots          | Guided user support and decision-support workflows                    |
+| Leaflet              | Interactive maps and geospatial visualization                         |
+| React Leaflet        | Map-based user interfaces in React                                    |
+| Geolocation          | Location-aware reporting, discovery, and routing                      |
+| Offline-First Design | Local data persistence and delayed synchronization                    |
+| PWA                  | Installable web apps for mobile and desktop users                     |
+| Capacitor            | Packaging web apps for Android mobile deployment                      |
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=griffinmax9801&icon=0&color=12)](https://visitcount.itsvg.in)
+### Tools, Deployment & Workflow
 
-<!-- Optional Support Section
+| Tool           | How I Use It                                            |
+| -------------- | ------------------------------------------------------- |
+| Git            | Version control and project history                     |
+| GitHub         | Code hosting, documentation, and portfolio presentation |
+| Vercel         | Frontend deployment and production hosting              |
+| Cloudflare     | Deployment and edge-ready configuration                 |
+| npm            | Package management and project scripts                  |
+| ESLint         | Code quality checks                                     |
+| Prettier       | Code formatting                                         |
+| Android Studio | Mobile testing and Android builds with Capacitor        |
 
-## 💰 Support My Work
+---
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)
+### Libraries & Supporting Tools
 
--->
-```
+| Library                   | How I Use It                                 |
+| ------------------------- | -------------------------------------------- |
+| React Hook Form           | Building structured forms                    |
+| Zod                       | Schema validation and safer form/API data    |
+| jsPDF                     | Generating downloadable reports              |
+| OpenStreetMap / Nominatim | Reverse geocoding and location support       |
+| PWA Service Workers       | Offline caching and installable app behavior |
+
+
+## ⭐ Featured Projects
+
+### 🛡️ AegisLink — Offline Public Safety Mesh
+
+**AegisLink** is an offline-first public safety platform for incident reporting, evidence collection, geolocation, and security intelligence.
+
+It is designed for low-connectivity and emergency environments where users need to capture reports, store evidence locally, and sync data once connectivity is restored.
+
+**Key Features**
+
+* Incident reporting and evidence collection
+* Offline-first local persistence
+* Delayed synchronization
+* Interactive incident mapping
+* Security intelligence feed
+* Role-based access control
+* PWA and Android-ready deployment using Capacitor
+
+**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, Shadcn UI, Framer Motion, TanStack Query, Leaflet, Supabase, Capacitor
+
+**Repository:** [aegislink-connect](https://github.com/griffin6569/aegislink-connect)
+
+---
+
+### 🏠 KejaRadar — Verified Rental Discovery Platform
+
+**KejaRadar** is a rental discovery platform built for Kenya. It helps tenants find verified houses, explore listings on a map, access safety information, and connect with housing-related services.
+
+The platform includes tenant, landlord, rider, admin, advertiser, verification, and AI-assistant workflows.
+
+**Key Features**
+
+* Verified rental listings
+* Map-based rental discovery
+* Tenant dashboard
+* Landlord onboarding
+* Rider/logistics workflows
+* Admin listing management
+* Sponsored local services
+* Identity verification flows
+* AI assistant support
+* PWA-ready experience
+
+**Tech Stack:** React 19, TanStack Start, TanStack Router, Vite, Tailwind CSS, Supabase, React Query, Leaflet, Radix UI, Vite PWA
+
+**Live Demo:** [kejaradar-main.vercel.app](https://kejaradar-main.vercel.app)
+**Repository:** [kejaradar](https://github.com/griffin6569/kejaradar)
+
+---
+
+### 🏗️ CiviGuard AI — Civic Infrastructure Intelligence Platform
+
+**CiviGuard AI** is a civic infrastructure monitoring platform focused on Kenyan public infrastructure. It combines citizen reporting, AI-assisted damage analysis, geospatial visualization, admin workflows, risk intelligence, and Supabase-powered backend services.
+
+The platform is built to help citizens report issues while giving administrators tools for triage, prioritization, routing, and infrastructure decision support.
+
+**Key Features**
+
+* Citizen infrastructure reporting
+* Image upload and camera capture
+* EXIF GPS extraction and geolocation fallback
+* AI-powered damage analysis
+* Offline draft and sync queue support
+* Admin dashboard for triage and operations
+* Report hotspot clustering
+* Reporter credibility scoring
+* Risk-zone and escalation foundations
+* Authority routing architecture
+* Supabase Edge Functions for AI and operational workflows
+
+**Tech Stack:** React, TypeScript, Vite, React Router, TanStack Query, Tailwind CSS, Shadcn UI, Framer Motion, Leaflet, Supabase Auth, Supabase Postgres, Supabase Storage, Supabase Edge Functions, Google Gemini
+
+**Repository:** [civicuardai](https://github.com/griffin6569/civicuardai)
+
+---
+
+### 🐄 VetLink — AI Veterinary Operations Platform
+
+**VetLink** is an AI-assisted veterinary operations platform for farmers, veterinarians, and animal-health administrators.
+
+It goes beyond a chatbot by capturing structured field data, creating persistent clinical cases, supporting veterinary review, managing herd health records, estimating animal risk, and distributing outbreak warnings.
+
+**Key Features**
+
+* Structured veterinary case intake
+* Photo upload and camera capture
+* Voice-note transcription and clinical extraction
+* AI-assisted triage reports
+* Ranked differential diagnoses
+* Urgency classification and red-flag detection
+* English and Swahili report support
+* Case history and follow-up conversation
+* Verified veterinarian review workflows
+* Herd and animal health records
+* Vaccination, treatment, and deworming reminders
+* Public QR animal health passports
+* 14-day animal risk assessment
+* Outbreak shield alerts
+
+**Tech Stack:** React 19, TanStack Start, TanStack Router, Tailwind CSS, Radix UI, Supabase Postgres, Supabase Auth, Supabase Storage, Supabase Realtime, Supabase Edge Functions, Google Gemini, Leaflet, Zod, React Hook Form, jsPDF
+
+**Live Demo:** [vetlink-platform.vercel.app](https://vetlink-platform.vercel.app)
+**Repository:** [vetlink-platform](https://github.com/griffin6569/vetlink-platform)
+
+---
+
+### 🌾 Kilimo Soko Leo — Agritech Marketplace
+
+**Kilimo Soko Leo** is an agritech-focused project built around digital farming, market access, and agricultural service delivery.
+
+**Focus Areas**
+
+* Farmer support
+* Market access
+* Agribusiness workflows
+* Digital agriculture tools
+* Practical technology for local farming communities
+
+**Repository:** [kilimo-soko-leo](https://github.com/griffin6569/kilimo-soko-leo)
+
+---
+
+### 🏥 HealthIntelix / AfyaScribe AI Companion
+
+My health-tech projects explore how AI can support digital health workflows, structured documentation, patient assistance, and intelligent healthcare tools.
+
+**Focus Areas**
+
+* AI health assistants
+* Medical documentation support
+* Digital health workflows
+* User-friendly health-tech interfaces
+
+**Repositories**
+
+* [healthintelix](https://github.com/griffin6569/healthintelix)
+* [afyascribe-ai-companion](https://github.com/griffin6569/afyascribe-ai-companion)
+
+---
+
+## 📌 Project Portfolio
+
+| Project                 | Category                                 | Main Technologies                          | Status      |
+| ----------------------- | ---------------------------------------- | ------------------------------------------ | ----------- |
+| AegisLink               | Public Safety / Offline Systems          | React, Supabase, Capacitor, Leaflet        | Active      |
+| KejaRadar               | Housing / Rental Discovery               | TanStack Start, Supabase, Leaflet, PWA     | Active      |
+| CiviGuard AI            | Civic-Tech / Infrastructure Intelligence | React, Supabase, Gemini, Edge Functions    | Active      |
+| VetLink                 | Agritech / Veterinary AI                 | TanStack Start, Supabase, Gemini, Realtime | Active      |
+| Kilimo Soko Leo         | Agritech Marketplace                     | React, Supabase                            | Active      |
+| HealthIntelix           | Health-Tech                              | React, AI, Supabase                        | In Progress |
+| AfyaScribe AI Companion | AI Health Assistant                      | React, AI, Supabase                        | In Progress |
+| VoteChain369            | Civic / Blockchain                       | Web App, Blockchain Concepts               | Prototype   |
+| Curve Road Vision       | Computer Vision / Road Safety            | AI, Vision Systems                         | Prototype   |
+| Geo Craft Pro           | Mapping / Geospatial Tools               | Maps, Geolocation                          | Prototype   |
+
+---
+
+## 🧠 My Development Strengths
+
+* Building full-stack products from idea to deployment
+* Designing role-based platforms for multiple user types
+* Working with Supabase Auth, Postgres, Storage, RLS, and Edge Functions
+* Creating AI-assisted workflows using Gemini and structured outputs
+* Implementing map-based and location-aware applications
+* Building dashboards, admin panels, and operational tools
+* Designing offline-first and low-bandwidth-friendly systems
+* Turning social-impact ideas into practical software products
+
+---
+
+## 🔭 Current Focus
+
+I'm currently improving my portfolio around:
+
+* Production-ready Supabase architectures
+* AI-assisted decision-support systems
+* Offline-first web and mobile applications
+* Geospatial intelligence dashboards
+* Civic-tech, agritech, health-tech, and public-safety platforms
+* Clean documentation, testing, and deployment workflows
+
+---
+
+## 📈 GitHub Stats
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to collaboration on full-stack applications, AI-powered platforms, civic-tech tools, agritech systems, health-tech products, and public-safety technology.
+
+* GitHub: [@griffin6569](https://github.com/griffin6569)
+* Portfolio: Coming soon
+* LinkedIn: Add your LinkedIn link here
+* Email: Add your professional email here
+
+---
+
+## ⚡ Personal Mission
+
+I build technology that is practical, local, and useful.
+
+My goal is to create software that does more than look good — systems that help people report problems, access services, protect communities, improve farming, support health decisions, and turn data into action.
